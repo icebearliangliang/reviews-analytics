@@ -14,4 +14,4 @@ for d in data:
 	length = len(d)
 	sum1 = sum1 + length
 average = sum1 / len(data)
-print(average)
+print('留言的平均长度为'， average)
